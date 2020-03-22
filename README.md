@@ -1,6 +1,10 @@
 # SpeechBot
 #wirvsvirus
 
+Mit der Speech Bot Applikation wird den Anwendern ein weiteres Medium zur Durchführung des Open Health Checks angeboten: Durch Sprachausgaben und Spracherkennung wird der Anwender durch unseren Fragebogen geführt 
+
+Die Speech Bot Applikation bietet den Anwendern ein weiteres Medium zur Druchführung des Open Health Checks. Per Sprache
+
 ## Getting Started
 - A valid subscription for Microsoft Azure Speech services is required in order to use this application
 - Replace "KEY" and "REGION" in SpeechRecognizer.css with your subscription key and the region that is associated to your subscription (e.g. "westus")
