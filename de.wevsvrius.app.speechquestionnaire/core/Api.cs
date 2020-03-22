@@ -31,7 +31,7 @@ namespace de.wevsvrius.app.speechquestionnaire.core
 {
     public class Api
     {
-        public const string HOST = "https://vsvirus.arematics.com";
+        public const string HOST = "HOST";
         public const string USERS_ENDPOINT = HOST+@"/api/v1/users";
         public const string QUESTIONNAIRES_ENDPOINT = HOST + @"/api/v1/users/{userId}/questionnaires";
         public const string QUESTIONNAIRE_ENDPOINT = HOST + @"/api/v1/users/{userId}/questionnaires/{questionnaireId}";
